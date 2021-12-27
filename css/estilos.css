@@ -9,3 +9,9 @@ body
 	border: 5px solid blue;
 	align-items: center;
 }
+
+#cabecera
+{
+	background: #33A;
+	color: white;
+}
