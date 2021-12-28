@@ -5,7 +5,7 @@ body
 	text-align: center;
 	font-family: "Arial";
 	font-size: 24px;
-	margin-top: 200px;
+	margin-top: 10%;
 	border: 5px solid blue;
 	align-items: center;
 }
@@ -14,4 +14,10 @@ body
 {
 	background: #33A;
 	color: white;
+	text-align: left;
+}
+
+#logo
+{
+	height: 60px;
 }
